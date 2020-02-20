@@ -12,5 +12,6 @@ consign().include('routes').include('utils').into(app);
 
 
 app.listen(4000, '127.0.0.1',()=>{
-	console.log('Servidor Online');
+	console.log('Online');
+	console.log('listening on 172.0.0.1:4000');
 });

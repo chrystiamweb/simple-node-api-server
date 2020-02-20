@@ -1,1 +1,4 @@
+{"_name":"Casa","_gender":"m","_birth":"2020-02-20","_country":"United Kingdom","_email":"teste@teste.com","_password":"123456","_photo":"dist/img/avatar.png","_admin":false,"_register":"2020-02-20T13:34:44.208Z","_id":"0TOMa4exech2KTu3"}
+{"_name":"Admin","_gender":"m","_birth":"2015-01-01","_country":"United States","_email":"teste@teste.com","_password":"123456","_photo":"dist/img/avatar.png","_admin":true,"_register":"2020-02-20T13:39:00.382Z","_id":"M8Ma71zrovTCnDwE"}
 {"_name":"Jão da Silva","_email":"Jão@andrade.com","_id":"UYgjFWU79voMrjmt"}
+{"_name":"jao sao","_gender":"m","_birth":"2020-02-19","_country":"Albania","_email":"teste@teste.com","_password":"123456","_photo":"dist/img/avatar.png","_admin":false,"_register":"2020-02-20T13:35:42.115Z","_id":"erKMDoMESAPKiA1m"}
